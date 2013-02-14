@@ -1,2 +1,4 @@
+removed_sources:
+  cba_0.2-9.tar.gz: b84cd6bd865fa221154f2f29644221bae2a2f340
 sources:
-  "cba_0.2-9.tar.gz:"	b84cd6bd865fa221154f2f29644221bae2a2f340
+  cba_0.2-11.tar.gz: e0a6ee0ae69ae9862e4e46afcd8794717c4e0b64
