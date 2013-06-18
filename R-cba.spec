@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.2.11
-Release:          1
+Release:          2
 Summary:          Clustering for Business Analytics
 Group:            Sciences/Mathematics
 License:          GPL-2
