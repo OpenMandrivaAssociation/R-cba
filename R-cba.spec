@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.2.11
-Release:          2
+Version:          0.2.12
+Release:          1
 Summary:          Clustering for Business Analytics
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/cba_0.2-11.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/cba_0.2-12.tar.gz
 Requires:         R-grid R-proxy 
 Requires:         R-Matrix 
 Requires:         R-gclus R-colorspace 
